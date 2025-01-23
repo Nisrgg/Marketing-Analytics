@@ -1,0 +1,51 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+#*.csv
+dummy.csv
+*.tsv
+*.data
+*.dat
+*.json
+*.xlsx
+*.xls
+
+# Log files
+*.log
+
+# Environment and dependencies
+env/
+venv/
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
+*.session
+.Rhistory
+
+# Compiled output
+*.out
+*.o
+*.so
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+~*
